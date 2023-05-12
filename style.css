@@ -1,0 +1,38 @@
+body
+{
+    background-size: cover;
+}
+.heading{
+    color: white;
+    font-family:'Rampart One', cursive;
+}
+#inst{
+    font-family: 'Bruno Ace SC', cursive;
+   letter-spacing: 1px;
+    font-size: 18px;
+}
+.btn-success, .btn-danger{
+    font-family: 'Bruno Ace SC', cursive;
+    font-size: 18px;
+}
+#h4{
+background-color: rgb(211, 167, 167);
+line-height: 2;
+margin: 0px;
+}
+.modal-dialog
+{
+    width: 65%;
+}
+
+
+#head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    font-weight: bolder;
+  }
+
+  #body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+  }
